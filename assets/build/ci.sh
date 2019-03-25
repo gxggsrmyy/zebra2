@@ -66,7 +66,7 @@ function build_go() {
   curl -k https://storage.googleapis.com/golang/go1.4.3.linux-amd64.tar.gz | tar xz
   mv go goroot_bootstrap
 
-  git clone --branch master https://github.com/gxggsrmyy/go-1  go
+  git clone --branch master https://github.com/phuslu/go  go
   cd go/src
   # if [ "${GOTIP_FOLLOW}" = "true" ]; then
   # 	git remote add -f upstream https://github.com/golang/go
