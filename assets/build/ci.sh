@@ -2,7 +2,7 @@
 
 export GITHUB_USER=${GITHUB_USER:-gxggsrmyy}
 export GITHUB_EMAIL=${GITHUB_EMAIL:-gxggsrmyy@gmail.com}
-export GITHUB_REPO=${GITHUB_REPO:-gxggsrmyy}
+export GITHUB_REPO=${GITHUB_REPO:-zebra2}
 export GITHUB_CI_REPO=${GITHUB_CI_REPO:-zebra-ci}
 export GITHUB_COMMIT_ID=${TRAVIS_COMMIT:-${COMMIT_ID:-master}}
 # export SOURCEFORGE_USER=${SOURCEFORGE_USER:-${GITHUB_USER}}
